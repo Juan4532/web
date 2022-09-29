@@ -1,0 +1,124 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Juan Rey Olveira ",
+    "icon": "https://juan-rey.me/assets/jaime.jpg",
+    "favicon": "https://juan-rey.me/assets/icon.svg",
+    "home_page_url": "https://juan-rey.me/",
+    "feed_url": "https://juan-rey.me/posts/index.json",
+    "description": "",
+    "items": [
+        {
+            "id": "la-busqueda",
+            "url": "https://juan-rey.me/la-busqueda",
+            "title": "La busqueda",
+            "content_text": "La busqueda de la verdad ",
+            "date_published": "2022-09-19T19:15:00Z",
+            "tags": [],
+            "language": "es"
+        },
+        {
+            "id": "el-lenguaje",
+            "url": "https://juan-rey.me/el-lenguaje",
+            "title": "El origen del lenguaje",
+            "content_text": "Fragmento de la trilogía de la fundación",
+            "date_published": "2022-09-15T01:54:00Z",
+            "tags": [
+                "Destacado"
+            ],
+            "language": "es"
+        },
+        {
+            "id": "carbon-encendido",
+            "url": "https://juan-rey.me/carbon-encendido",
+            "title": "Carbon encendido",
+            "content_text": "Conclusión del libro Una temporada en Tinker Creek",
+            "date_published": "2022-09-12T11:55:00Z",
+            "tags": [
+                "Destacado"
+            ],
+            "language": "es"
+        },
+        {
+            "id": "vivir-en-el-monte",
+            "url": "https://juan-rey.me/vivir-en-el-monte",
+            "title": "Vivir en el monte",
+            "content_text": "Vivir en el monte, comiendo piñas y haciendo una montaña de mierda",
+            "date_published": "2022-09-11T11:01:28Z",
+            "tags": [],
+            "language": "es"
+        },
+        {
+            "id": "libertad",
+            "url": "https://juan-rey.me/libertad",
+            "title": "Libertad",
+            "content_text": "que es la libertad",
+            "date_published": "2022-06-27T11:09:00Z",
+            "tags": [],
+            "language": "es"
+        },
+        {
+            "id": "el-ente-sin-alma",
+            "url": "https://juan-rey.me/el-ente-sin-alma",
+            "title": "El ente sin alma",
+            "content_text": "sobre el ente sin alma",
+            "date_published": "2022-06-27T11:12:00Z",
+            "tags": [
+                "Destacado"
+            ],
+            "language": "es"
+        },
+        {
+            "id": "jean-baptiste-grenouille-soy-yo",
+            "url": "https://juan-rey.me/jean-baptiste-grenouille-soy-yo",
+            "title": "Jean-Baptiste Grenouille soy yo",
+            "content_text": "Entrevista a Patrick Suskind",
+            "date_published": "2022-07-03T09:45:00Z",
+            "tags": [],
+            "language": "es"
+        },
+        {
+            "id": "las-matrices",
+            "url": "https://juan-rey.me/las-matrices",
+            "title": "Las matrices",
+            "content_text": "las matrices de los cojones",
+            "date_published": "2022-07-07T11:09:57Z",
+            "tags": [],
+            "language": "es"
+        },
+        {
+            "id": "el-coletas",
+            "url": "https://juan-rey.me/el-coletas",
+            "title": "Es coletas",
+            "content_text": "Quien es el coletas",
+            "date_published": "2022-07-06T11:21:57Z",
+            "tags": [],
+            "language": "es"
+        },
+        {
+            "id": "el-monopolio-de-la-estupidez",
+            "url": "https://juan-rey.me/el-monopolio-de-la-estupidez",
+            "title": "El monopolio de la estupidez",
+            "content_text": "",
+            "date_published": "2022-07-08T11:00:47Z",
+            "tags": [],
+            "language": "es"
+        },
+        {
+            "id": "el-sanchismo",
+            "url": "https://juan-rey.me/el-sanchismo",
+            "title": "El sanchismo",
+            "content_text": "",
+            "date_published": "2022-07-08T11:00:47Z",
+            "tags": [],
+            "language": "es"
+        },
+        {
+            "id": "yo",
+            "url": "https://juan-rey.me/yo",
+            "title": "Acerca de mí",
+            "content_text": "Hola, mundo.",
+            "tags": [],
+            "language": "es"
+        }
+    ]
+}
