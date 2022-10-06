@@ -1,6 +1,6 @@
 <?php
 
-define('FEED', $_SERVER['DOCUMENT_ROOT'] . '../index.json');
+define('FEED', $_SERVER['DOCUMENT_ROOT'] . '/index.json');
 
 const LOCALES = [
     'es' => 'es_ES',
