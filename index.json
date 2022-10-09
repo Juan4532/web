@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1.1",
-    "title": "Juan Rey Olveira ",
+    "title": "Juan Rey Olveira",
     "icon": "https://juan-rey.me/assets/jaime.jpg",
     "favicon": "https://juan-rey.me/assets/icon.svg",
-    "home_page_url": "https://juan-rey.me/",
+    "home_page_url": "https://juan-rey.me",
     "feed_url": "https://juan-rey.me/index.json",
     "description": "Se me conoce como Juan Rey Olveira",
     "items": [
