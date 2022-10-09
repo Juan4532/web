@@ -8,6 +8,15 @@
     "description": "",
     "items": [
         {
+            "id": "eres-tonto",
+            "url": "https://juan-rey.me/eres-tonto",
+            "title": "eres tonto",
+            "content_text": "Eres tonto",
+            "date_published": "2022-10-09T23:26:00Z",
+            "tags": [],
+            "language": "es"
+        },
+        {
             "id": "la-busqueda",
             "url": "https://juan-rey.me/la-busqueda",
             "title": "La busqueda",
