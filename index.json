@@ -4,8 +4,8 @@
     "icon": "https://juan-rey.me/assets/jaime.jpg",
     "favicon": "https://juan-rey.me/assets/icon.svg",
     "home_page_url": "https://juan-rey.me/",
-    "feed_url": "https://juan-rey.me/posts/index.json",
-    "description": "",
+    "feed_url": "https://juan-rey.me/index.json",
+    "description": "Se me conoce como Juan Rey Olveira",
     "items": [
         {
             "id": "la-joven",
