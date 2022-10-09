@@ -431,7 +431,7 @@ export const blog = {
             const date = this.formatDate(item.date_published)
             const header = document.createElement('header')
 
-            const url = `${blog.github.url}/commits/${blog.github.branch}/httpdocs/posts/${item.id}/index.html`
+            const url = `${blog.github.url}/commits/${blog.github.branch}/posts/${item.id}/index.html`
 
             header.innerHTML = `
                 <a href="/">Juan Rey Olveira</a>
