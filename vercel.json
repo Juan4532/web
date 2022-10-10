@@ -1,0 +1,8 @@
+{
+    "redirects": [
+        {
+            "source": "/yo",
+            "destination": "/pages/yo/index.html"
+        }
+    ]
+}
