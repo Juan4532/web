@@ -2,7 +2,7 @@
     "redirects": [
         {
             "source": "/yo",
-            "destination": "/index.html > html > body > div > header > section > p > a"
+            "destination": "/index.html/yo"
         }
     ]
 }
