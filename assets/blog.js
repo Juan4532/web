@@ -52,7 +52,6 @@ export const blog = {
         const isExternalLink =
             new URL(a.href).origin !== document.location.origin
 
-        alert("hola")
         if (!leftButtonClick || isExternalLink) {
             return
         }
