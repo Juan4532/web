@@ -1,11 +1,7 @@
 {
     "rewrites": [
         {
-            "source": "/la-busqueda",
-            "destination": "/index.html"
-        },
-        {
-            "source": "/yo",
+            "source": "/(.*)",
             "destination": "/index.html"
         }
     ]
