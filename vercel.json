@@ -2,7 +2,7 @@
     "redirects": [
         {
             "source": "/yo",
-            "destination": "index.html/yo"
+            "destination": "assets/scrip.html"
         }
     ]
 }
