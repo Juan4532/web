@@ -348,7 +348,6 @@ export const blog = {
         this.nav = document.querySelector(options.nav)
         this.close = document.querySelector(options.close)
         this.article = document.querySelector(options.article)
-        alert(this.article.innerText)
 
         this.github = options.github
 
@@ -356,6 +355,7 @@ export const blog = {
         this.feed = await response.json()
 
         if (blog.isItem(document.URL)) {
+            alert("hoal")
             blog.dispatch(document.URL)
         }
 
