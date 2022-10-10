@@ -1,8 +1,8 @@
 {
-    "redirects": [
+    "rewrites": [
         {
             "source": "/yo",
-            "destination": "assets/scrip.html"
+            "destination": "/pages/yo/index.html"
         }
     ]
 }
