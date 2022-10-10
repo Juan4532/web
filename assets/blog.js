@@ -77,6 +77,7 @@ export const blog = {
         // ha concluido
         setTimeout(() => document.body.classList.add('transition'), 500)
 
+        location.reload()
         blog.dispatch(document.URL)
     },
 
