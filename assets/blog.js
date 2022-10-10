@@ -390,7 +390,7 @@ export const blog = {
                         ? this.nav
                         : this.article
 
-                    element.parentNode.classList.add('hidden')
+                    //element.parentNode.classList.add('hidden')
                 }
             })
     },
