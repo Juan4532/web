@@ -53,6 +53,7 @@ export const blog = {
             new URL(a.href).origin !== document.location.origin
 
         if (!leftButtonClick || isExternalLink) {
+            alert("hola")
             return
         }
 
@@ -335,6 +336,7 @@ export const blog = {
 
         const slug = pathname.replace(/^\//, '')
         const item = blog.feed.items.find((i) => i.id === slug)
+        
 
         await this.load(item)
     },
@@ -352,6 +354,7 @@ export const blog = {
         const response = await fetch(options.feed)
         this.feed = await response.json()
 
+        alert(document.URL)
         if (blog.isItem(document.URL)) {
             blog.dispatch(document.URL)
         }
