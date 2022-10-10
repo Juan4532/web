@@ -348,13 +348,13 @@ export const blog = {
         this.nav = document.querySelector(options.nav)
         this.close = document.querySelector(options.close)
         this.article = document.querySelector(options.article)
+        alert(this.article.innerText)
 
         this.github = options.github
 
         const response = await fetch(options.feed)
         this.feed = await response.json()
 
-        alert(document.URL)
         if (blog.isItem(document.URL)) {
             blog.dispatch(document.URL)
         }
