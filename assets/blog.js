@@ -354,7 +354,6 @@ export const blog = {
         this.feed = await response.json()
 
         if (blog.isItem(document.URL)) {
-            alert("hoal")
             blog.dispatch(document.URL)
         }
 
