@@ -377,7 +377,7 @@ export const blog = {
             history.pushState(null, '', '/')
             blog.showHome()
         })
-
+/*
         document
             .querySelector('header')
             ?.addEventListener('transitionend', (event) => {
@@ -392,7 +392,7 @@ export const blog = {
 
                     element.parentNode.classList.add('hidden')
                 }
-            })
+            })*/
     },
 
     /**
