@@ -8,6 +8,15 @@
     "description": "Se me conoce como Juan Rey Olveira",
     "items": [
         {
+            "id": "vick",
+            "url": "https://juan-rey.me/vick",
+            "title": "Victarine dan Teufel",
+            "content_text": "Victarine dan Teufel",
+            "date_published": "2022-10-20T11:55:00Z",
+            "tags": [],
+            "language": "es"
+        },
+        {
             "id": "que-vas-a-hacer",
             "url": "https://juan-rey.me/que-vas-a-hacer",
             "title": "Qué vas a hacer?",
