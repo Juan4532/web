@@ -8,6 +8,15 @@
     "description": "Se me conoce como Juan Rey Olveira",
     "items": [
         {
+            "id": "que-vas-a-hacer",
+            "url": "https://juan-rey.me/que-vas-a-hacer",
+            "title": "Qué vas a hacer?",
+            "content_text": "que-vas-a-hacer",
+            "date_published": "2022-10-20T11:33:00Z",
+            "tags": [],
+            "language": "es"
+        },
+        {
             "id": "la-joven",
             "url": "https://juan-rey.me/la-joven",
             "title": "La joven que tenía espejos en lugar de ojos",
