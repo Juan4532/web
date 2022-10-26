@@ -8,6 +8,15 @@
     "description": "Se me conoce como Juan Rey Olveira",
     "items": [
         {
+            "id": "batalla-eclipse",
+            "url": "https://juan-rey.me/batalla-eclipse",
+            "title": "La batalla del eclipse",
+            "content_text": "La batalla del eclipse",
+            "date_published": "2022-10-26T21:04:00Z",
+            "tags": [],
+            "language": "es"
+        },
+        {
             "id": "vick",
             "url": "https://juan-rey.me/vick",
             "title": "Victarine dan Teufel",
