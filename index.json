@@ -8,6 +8,15 @@
     "description": "Se me conoce como Juan Rey Olveira",
     "items": [
         {
+            "id": "rutherford",
+            "url": "https://juan-rey.me/rutherford",
+            "title": "Frases de Ernest Rutherford",
+            "content_text": "Frases de Ernest Rutherford",
+            "date_published": "2022-11-08T10:51:00Z",
+            "tags": [],
+            "language": "es"
+        },
+        {
             "id": "citizen-erased",
             "url": "https://juan-rey.me/citizen-erased",
             "title": "Citizen Erased",
