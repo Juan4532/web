@@ -16,24 +16,24 @@
             "tags": [],
             "language": "es"
         },
-        //        {
-        //          "id": "citizen-erased",
-        //          "url": "https://juan-rey.me/citizen-erased",
-        //          "title": "Citizen Erased",
-        //          "content_text": "Citizen Erased",
-        //          "date_published": "2022-11-01T02:42:00Z",
-        //          "tags": [],
-        //         "language": "es"
-        //      },
-        //    {
-        //      "id": "batalla-eclipse",
-        //    "url": "https://juan-rey.me/batalla-eclipse",
-        //  "title": "La batalla del eclipse",
-        //"content_text": "La batalla del eclipse",
-        //    "date_published": "2022-10-26T21:04:00Z",
-        //  "tags": [],
-        //"language": "es"
-        //},
+        {
+            "id": "citizen-erased",
+            "url": "https://juan-rey.me/citizen-erased",
+            "title": "Citizen Erased",
+            "content_text": "Citizen Erased",
+            "date_published": "2022-11-01T02:42:00Z",
+            "tags": [],
+            "language": "es"
+        },
+        {
+            "id": "batalla-eclipse",
+            "url": "https://juan-rey.me/batalla-eclipse",
+            "title": "La batalla del eclipse",
+            "content_text": "La batalla del eclipse",
+            "date_published": "2022-10-26T21:04:00Z",
+            "tags": [],
+            "language": "es"
+        },
         {
             "id": "vick",
             "url": "https://juan-rey.me/vick",
