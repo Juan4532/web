@@ -8,6 +8,15 @@
     "description": "Se me conoce como Juan Rey Olveira",
     "items": [
         {
+            "id": "religion",
+            "url": "https://juan-rey.me/religion",
+            "title": "Religiones a la carta",
+            "content_text": "Escoge tu religión",
+            "date_published": "2022-11-17T18:21:00Z",
+            "tags": [],
+            "language": "es"
+        },
+        {
             "id": "no-quiero",
             "url": "https://juan-rey.me/rutherford",
             "title": "No quiero",
