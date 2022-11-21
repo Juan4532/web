@@ -1,3 +1,4 @@
+
 {
     "version": "https://jsonfeed.org/version/1.1",
     "title": "Juan Rey Olveira",
@@ -7,6 +8,15 @@
     "feed_url": "https://juan-rey.me/index.json",
     "description": "Se me conoce como Juan Rey Olveira",
     "items": [
+        {
+            "id": "club-5pm",
+            "url": "https://juan-rey.me/club-5pm",
+            "title": "El club de las 5 PM",
+            "content_text": "Manifielto del club de las 5 pm",
+            "date_published": "2022-11-21T18:13:00Z",
+            "tags": [],
+            "language": "es"
+        },
         {
             "id": "religion",
             "url": "https://juan-rey.me/religion",
