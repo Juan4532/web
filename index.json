@@ -1,5 +1,6 @@
 
 
+
 {
     "version": "https://jsonfeed.org/version/1.1",
     "title": "Juan Rey Olveira",
@@ -14,7 +15,7 @@
             "url": "https://juan-rey.me/club-5pm",
             "title": "El club de las 5 PM",
             "content_text": "Manifiesto del club de las 5 pm",
-            "date_published": "2022-11-21T18:13:00Z",
+            "date_published": "2022-11-21T12:13:00Z",
             "tags": [],
             "language": "es"
         },
