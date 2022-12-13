@@ -1,3 +1,79 @@
 
+<!doctype html>
+<html lang="es">
+<head>
+    <base href="/">
 
-xd
+    <meta charset="utf-8">
+    <meta name="author" content="Juan Rey Olveira">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+
+    <meta property="og:title" content="Juan Rey Olveira">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="">
+    <meta property="og:width" content="319">
+    <meta property="og:height" content="319">
+    <meta property="og:url" content="https://juan-rey.me">
+    <meta property="og:site_name" content="Juan Rey Olveira">
+    <meta property="og:locale" content="es_ES">
+
+    <meta name="twitter:site" content="">
+    <meta name="twitter:creator" content="">
+    <meta name="twitter:image" content="">
+    <meta name="twitter:image:alt" content="">
+
+    <!-- Do Not Track (DNT) de tuits incrustados.
+    Véase https://developer.twitter.com/en/docs/twitter-for-websites/privacy -->
+    <meta name="twitter:dnt" content="on">
+    <meta name="twitter:widgets:theme" content="dark">
+
+    <link rel="stylesheet" href="/assets/blog.css">
+    <link rel="alternate" type="application/feed+json" href="/index.json">
+    <link rel="preload" as="script" href="/assets/blog.js" crossorigin>
+    <link rel="preload" as="fetch" href="/index.json" crossorigin>
+    <link rel="icon" type="image/svg+xml" href="/assets/icon.svg">
+
+
+    <title>Juan Rey Olveira</title>
+    </head>
+    <body>
+        <div>
+            <header>
+                <section>
+                    <h1>Ama y haz lo que quieras.</h1>
+
+                    <p>
+                        Se me conoce como <strong>Juan Rey Olveira</strong>.
+                        <a href="/yo"
+                            >No soy catalán, pero intento hacer cosas. Me gusta leer, ir en bici y, por suerte o por desgracia, siempre he tenido interes en como funcionan las cosas.</a
+                        >.
+                    </p>
+                </section>
+                <hr />
+                <nav></nav>
+            </header>
+
+            <main>
+                <button tabindex="-1"></button>
+                <article></article>
+                <aside></aside>
+            </main>
+        </div>
+
+        <script type="module">
+            import { blog } from './assets/blog.js'
+
+            blog.init({
+                nav: 'body > div > header > nav',
+                article: 'main > article',
+                close: 'main > button',
+                feed: '/index.json',
+                github: {
+                    url: 'https://github.com/Juan4532/web',
+                    branch: 'main',
+                },
+            })
+        </script>
+    </body>
+</html>
